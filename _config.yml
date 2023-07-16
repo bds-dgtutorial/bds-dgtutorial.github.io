@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "DG Tutorial" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/bds.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/cisose.png" # Site logo, also used in jekyll-seo-tag
 description: "A short tutorial for Domain Generalization" # Site description and default description, also used in jekyll-seo-tag
 url: "https://bds-dgtutorial.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""

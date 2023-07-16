@@ -2,7 +2,9 @@
 title: DG Tutorial
 feature_text: |
   ## A Short Tutorial on Domain Generalization
-  This tutorial serves as a starting point for anyone who wants to start researching the field
+  This tutorial serves as a starting point for anyone who wants to start researching the field.
+
+  9:00-9:55 am, Monday, July 17th, Athens, Greece
 feature_image: "/assets/images/background.jpg"
 excerpt: "Rather than starting from scratch, this tutorial is designed to help individuals navigate the DG literature."
 ---
