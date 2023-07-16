@@ -10,11 +10,11 @@ excerpt: "Rather than starting from scratch, this tutorial is designed to help i
 Rather than starting from scratch, this tutorial is designed to introduce anyone interested to the problem of Domain Generalization
 and assist whoever wants to get into the field navigate the literature.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="scholar" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} 
+{% include button.html text="Slides 🔗" link="/assets/dg_tutorial_slides.pdf" color="#0366d6" %} 
 
 ## Introduction
 
-Quick int
+Quick intro
 
 ## Presenters
 
