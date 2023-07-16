@@ -1,10 +1,5 @@
 ---
-title: Home
-feature_text: |
-  ## Short Tutorial on Domain Generalization
-  This tutorial serves as a starting point for anyone who wants to start researching Domain Generalization
-feature_image: "/assets/images/background.jpg"
-excerpt: "Rather than starting from scratch, this tutorial is designed to help individuals navigate the DG literature."
+title: Benchmarks
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
