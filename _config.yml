@@ -96,7 +96,7 @@ lang: en-US # Set the site language
 title: "DG Tutorial" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/bds.png" # Site logo, also used in jekyll-seo-tag
 description: "A short tutorial for Domain Generalization" # Site description and default description, also used in jekyll-seo-tag
-url: "https://ieeebigdataservice.com/" # Site url, also used in jekyll-seo-tag
+url: "https://bds-dgtutorial.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/bds-dgtutorial/bds-dgtutorial.github.io"
 email: "bdsdgtutorial@gmail.com"
@@ -123,12 +123,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Benchmarks
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
+#- title: Benchmarks
+#  url: /benchmarks/
+- title: About Us
+  url: /aboutus/
+#- title: Categories
+#  url: /categories/
 #- title: Search
 #  url: /search/
 #- title: 
