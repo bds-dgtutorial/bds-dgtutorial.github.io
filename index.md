@@ -34,7 +34,7 @@ a different data generating distribution than the training data. This creates a 
 by the distributional shift present in distinct data domains of the same problem - or in other words, *domain generalizable* models. 
 
 This short tutorial serves as an introduction to the field of 
-*Domain Generalization* and presents its most important aspects, from problem statement, to state-of-the-art methods and evaluation settings.  
+*Domain Generalization* and presents its most important aspects, from problem statement, to state-of-the-art methods and evaluation settings. 
 
 ## Presenters
 
@@ -54,3 +54,23 @@ proposed in the literature.
 
 ![alt text](/assets/images/dgoutline.png) 
 
+## BioDG: A Benchmark for Domain Generalization in Biosignal Classification
+
+We introduce an open-source DG evaluation benchmark, namely
+BioDG, for 12-lead ECG and 62-channel EEG biosignals. BioDG adapts 
+SoTA DG algorithms from the image classification domain for 1D 
+biosignal classification.  
+
+
+![alt text](/assets/images/benchmark.png) 
+
+We propose an alternative neural network architecture 
+which leverages intermediate representations from multiple
+layers of a CNN.
+
+![alt text](/assets/images/biodg_model.png)
+
+If you want to find out more about our work, please 
+visit the following links:
+
+{% include button.html text="Paper 🔗" link="https://arxiv.org/abs/2303.11338" color="#0366d6" %} {% include button.html text="Code" icon="github" link="https://github.com/aristotelisballas/biodg" color="#0366d6" %} 
