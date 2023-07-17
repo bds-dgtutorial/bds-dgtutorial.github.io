@@ -74,3 +74,9 @@ If you want to find out more about our work, please
 visit the following links:
 
 {% include button.html text="Paper 🔗" link="https://arxiv.org/abs/2303.11338" color="#0366d6" %} {% include button.html text="Code" icon="github" link="https://github.com/aristotelisballas/biodg" color="#0366d6" %} 
+
+
+## Acknowledgment
+The work leading to these results has been funded by the European Union under Grant Agreements No. 101057821, project RELEVIUM and European Union’s Horizon 2020 research and innovation programme under Grant Agreement No. 965231, project REBECCA (REsearch on BrEast Cancer induced chronic conditions supported by Causal Analysis of multisource data).
+
+![alt-text-1](/assets/images/relevium.png "Relevium") ![alt-text-2](/assets/images/rebecca.png "Rebecca")
