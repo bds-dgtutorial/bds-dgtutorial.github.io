@@ -79,5 +79,6 @@ visit the following links:
 ## Acknowledgment
 The work leading to these results has been funded by the European Union under Grant Agreements No. 101057821, project RELEVIUM and European Union’s Horizon 2020 research and innovation programme under Grant Agreement No. 965231, project REBECCA (REsearch on BrEast Cancer induced chronic conditions supported by Causal Analysis of multisource data).
 
-<img src="/assets/images/relevium.png" alt="" width="100">
-<img src="/assets/images/rebecca.png" alt="" width="100">
+<img src="/assets/images/relevium.png" alt="" width="300">
+
+<img src="/assets/images/rebecca.png" alt="" width="300">
