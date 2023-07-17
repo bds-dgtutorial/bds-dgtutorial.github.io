@@ -39,7 +39,7 @@ This short tutorial serves as an introduction to the field of
 ## Presenters
 
 - [Christos Diou](https://diou.github.io), Assistant Professor of Artificial Intelligence and Machine Learning, Harokopio University of Athens, cdiou@hua.gr
-- [Aristotelis Ballas](https://aristotelisballas@github.io), PhD Student, Harokopio University of Athens
+- [Aristotelis Ballas](https://aristotelisballas@github.io), PhD Student, Harokopio University of Athens, aballas@hua.gr
 
 ## Outline
 1. Introduction to DG 
