@@ -6,7 +6,7 @@ excerpt: "A little bit about the presenters."
 A little bit about us. You can also visit our individual websites for more information.
 
 # [Christos Diou](https://diou.github.io)
-{% include button.html text="Google Scholar" link="[/assets/dg_tutorial_slides.pdf](https://scholar.google.com/citations?user=USwu_AgAAAAJ&hl=en&oi=ao)" color="#0366d6" %}
+{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=USwu_AgAAAAJ&hl=en&oi=ao" color="#0366d6" %}
 
 Christos Diou is an Assistant Professor of Artificial
 Intelligence and Machine Learning at the Department
@@ -27,7 +27,7 @@ focusing on applications of artificial intelligence in healthcare.
 
 
 # [Aristotelis Ballas](https://aristotelisballas.github.io)
-{% include button.html text="Google Scholar" link="[/assets/dg_tutorial_slides.pdf](https://scholar.google.com/citations?user=7dfMirEAAAAJ&hl=en&oi=ao)" color="#0366d6" %}
+{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=7dfMirEAAAAJ&hl=en&oi=ao" color="#0366d6" %}
 
 Aristotelis Ballas is currently working toward the
 Ph.D. degree in computer science with the Department
